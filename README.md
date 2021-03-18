@@ -26,4 +26,9 @@ We can see that our model has an accuracy of 99.7% to detect the colours.
 7. Creating colour contour to track red, blue and green colour
 
 # Code:
-[Click here to view the code](https://github.com/Tanuja127/GitHub/commit/19fec9c80db7f1dccc66dfb4aa2156b79ba4ed81)
+[Click here to view the full code](https://github.com/Tanuja127/GitHub/commit/19fec9c80db7f1dccc66dfb4aa2156b79ba4ed81)
+
+# Output:
+![image](https://user-images.githubusercontent.com/80504455/111588159-2ef6fb80-87e9-11eb-993f-169407068a07.png)
+
+![image](https://user-images.githubusercontent.com/80504455/111588197-37e7cd00-87e9-11eb-8842-767024e59acf.png)
