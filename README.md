@@ -13,4 +13,5 @@ We can see that our model has an accuracy of 99.7% to detect the colours.
 
 # Python Libraries Used:
 [1) NumPy](https://en.wikipedia.org/wiki/NumPy)
+
 [2) OpenCV](https://en.wikipedia.org/wiki/OpenCV)
