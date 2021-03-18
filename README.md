@@ -24,3 +24,6 @@ We can see that our model has an accuracy of 99.7% to detect the colours.
 5. Morphological Transform: Dilation, to remove noises from the images
 6. Morphological Transform, Dilation for each colour and bitwise_and operator between imageFrame and mask determines to detect only that particular colour
 7. Creating colour contour to track red, blue and green colour
+
+# Code:
+[Click here to view the code](https://github.com/Tanuja127/GitHub/commit/19fec9c80db7f1dccc66dfb4aa2156b79ba4ed81)
