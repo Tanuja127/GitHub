@@ -15,3 +15,12 @@ We can see that our model has an accuracy of 99.7% to detect the colours.
 [1) NumPy](https://en.wikipedia.org/wiki/NumPy)
 
 [2) OpenCV](https://en.wikipedia.org/wiki/OpenCV)
+
+# Steps for building Python Code:
+1. Capturing video through webcam
+2. Reading the video from the webcam in image frames
+3. Convert the imageFrame in BGR (RGB colour space) to HSV (hue-saturation-value) colour space
+4. Set range for red, blue and green colour and define mask
+5. Morphological Transform: Dilation, to remove noises from the images
+6. Morphological Transform, Dilation for each colour and bitwise_and operator between imageFrame and mask determines to detect only that particular colour
+7. Creating colour contour to track red, blue and green colour
