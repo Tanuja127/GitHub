@@ -12,5 +12,5 @@ We can see that our model has an accuracy of 99.7% to detect the colours.
 2) Multiple colour detection is used in some industrial robots, to performing pick-and-place task in separating different coloured objects.
 
 # Python Libraries Used:
-1) NumPy
+[1) NumPy](https://en.wikipedia.org/wiki/NumPy)
 2) OpenCV
